@@ -1,0 +1,14 @@
+
+J
+java:S37406"/Provide the parametrized type for this generic.(ó÷›€ıÿÿÿÿ
+D
+java:S3740L"/Provide the parametrized type for this generic.(”ÕØ
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+m	java:S127+"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ¸¿«üÿÿÿÿ
+E	java:S106Y"+Replace this use of System.out by a logger.(Ş²Ç¦ÿÿÿÿÿ
+@	java:S106\"+Replace this use of System.out by a logger.(Î†À
+@	java:S106_"+Replace this use of System.out by a logger.(Œéû¢
+@	java:S106b"+Replace this use of System.out by a logger.(¬˜€ò
+@	java:S106e"+Replace this use of System.out by a logger.(–—µ
+?	java:S106h"+Replace this use of System.out by a logger.(³Ÿ–C
